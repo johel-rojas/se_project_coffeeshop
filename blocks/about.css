@@ -16,7 +16,7 @@
   color: #ffffff;
   display: flex;
   justify-content: space-between;
-  padding: 119px 80px 173px;
+  padding: 100px 80px 173px;
   position: relative;
   overflow: hidden;
 }
@@ -28,11 +28,11 @@
   line-height: 52px;
   margin: 0;
   position: relative;
-  top: -19px;
 }
 
 .about__content {
   max-width: 660px;
+  padding-top: 19px;
 }
 
 .about__paragraph {
