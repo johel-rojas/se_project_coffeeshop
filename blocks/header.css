@@ -21,6 +21,7 @@
   margin: 183px 0 0;
   font-weight: 500;
   letter-spacing: -0.6px;
+  z-index: 1;
 }
 
 .header__span-accent {
@@ -36,6 +37,7 @@
   line-height: 30px;
   margin: 28px 0 0;
   font-family: "Noto Serif", "Times New Roman", serif;
+  z-index: 1;
 }
 
 .header__image {
@@ -52,8 +54,9 @@
   margin-top: auto;
   color: #838383;
   font-weight: 500;
+  z-index: 1;
 }
 
 .header__paragraph {
-  margin: 0;
+  margin: auto 0 0;
 }
